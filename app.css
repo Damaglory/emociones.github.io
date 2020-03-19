@@ -1,2 +1,2 @@
-html{box-sizing:border-box;height:100%}*,*:before,*:after{box-sizing:inherit}html,body{margin:0;padding:0}
+html{box-sizing:border-box;height:100%}*,*:before,*:after{box-sizing:inherit}html,body{margin:0;padding:0}#mapWrapper{position:absolute;width:100vw;height:100vh;z-index:0}#tagCloud{position:absolute;top:10px;left:10px;z-index:99;background-color:rgba(143,212,240,0.527);padding:0.5em}#tagCloud span{padding:1em;cursor:pointer;color:#ad410e;font-size:0.9em8;font-weight:italic;font-family:Arial, Helvetica, sans-serif}#tagCloud span:hover{color:#077579}
 
